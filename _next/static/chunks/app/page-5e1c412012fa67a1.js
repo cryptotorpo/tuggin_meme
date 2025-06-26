@@ -739,11 +739,11 @@
             });
       }
       let y = [
-        { name: "X", icon: "/social/x.png", url: "https://x.com/" },
+        { name: "X", icon: "/social/x.png", url: "https://x.com/TugginPepe" },
         {
           name: "Telegram",
           icon: "/social/td.png",
-          url: "https://t.me/",
+          url: "https://t.me/tuggin_eth",
         },
         {
           name: "DexTools",
