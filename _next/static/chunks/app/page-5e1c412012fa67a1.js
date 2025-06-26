@@ -180,7 +180,7 @@
         let { isOpen: t, onClose: a, type: l } = e,
           [i, r] = (0, s.useState)(!1),
           [o, x] = (0, s.useState)(!1),
-          m = "0x0000000000000000000000000000000000000000";
+          m = "0x69c664ef9a848909b65c2947c0cecdfaf613559600";
         if (
           ((0, s.useEffect)(() => {
             t ? r(!0) : setTimeout(() => r(!1), 300);
@@ -569,7 +569,7 @@
           { name: "TOKENOMICS", href: "#contact" },
           {
             name: "UNISWAP",
-            href: "https://app.uniswap.org/explore/tokens/ethereum/0x0000000000000000000000000000000000000000",
+            href: "https://app.uniswap.org/explore/tokens/ethereum/0x69c664ef9a848909b65c2947c0cecdfaf613559600",
           },
         ],
         w = () => {
@@ -748,12 +748,12 @@
         {
           name: "DexTools",
           icon: "/social/dextools.png",
-          url: "https://www.dextools.io/app/en/ether/pair-explorer/0x0000000000000000000000000000000000000000",
+          url: "https://www.dextools.io/app/en/ether/pair-explorer/0x69c664ef9a848909b65c2947c0cecdfaf613559600",
         },
         {
           name: "DexScreener",
           icon: "/social/dexscreener.png",
-          url: "https://dexscreener.com/ethereum/0x0000000000000000000000000000000000000000",
+          url: "https://dexscreener.com/ethereum/0x69c664ef9a848909b65c2947c0cecdfaf613559600",
         },
       ];
       function k() {
